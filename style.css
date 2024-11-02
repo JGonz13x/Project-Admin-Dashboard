@@ -240,6 +240,8 @@
   border-radius: 5px;
   padding: 30px 10px;
   box-shadow: 1px 2px 5px rgb(194, 194, 194);
+  display: grid;
+  grid-template-rows: 30px 1fr 50px;
 }
 
 .project-title {
@@ -254,6 +256,8 @@
 .project-options {
   display: flex;
   justify-content: right;
+  align-items: end;
+  align-self: end;
 }
 
 .project-options img {
@@ -277,6 +281,7 @@
   padding: 30px;
   background-color: white;
   margin-bottom: 30px;
+  box-shadow: 1px 2px 5px rgb(194, 194, 194);
 }
 
 .announcement-card {
