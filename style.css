@@ -132,6 +132,7 @@
 .profile-icon-top-header {
   display: flex;
   height: 50px;
+  width: 50px;
 }
 
 .profile-name-top-header {
