@@ -172,12 +172,14 @@
 .greetings {
   font-weight: 800;
   padding-top: 5px;
+  margin-left: 20px;
 }
 
 .name {
   padding-top: 5px;
   font-size: 1.6rem;
   font-weight: 900;
+  margin-left: 20px;
 }
 
 .lower-right-nav {
